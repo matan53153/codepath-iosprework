@@ -25,7 +25,6 @@
 		0167790C2B213E0200FE6673 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0167790F2B213E0200FE6673 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		016779112B213E0200FE6673 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		016779172B21420700FE6673 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		016779182B21430300FE6673 /* walkthrough.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = walkthrough.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -63,7 +62,6 @@
 				016779052B213E0100FE6673 /* SceneDelegate.swift */,
 				016779072B213E0100FE6673 /* ViewController.swift */,
 				016779092B213E0100FE6673 /* Main.storyboard */,
-				016779172B21420700FE6673 /* README.md */,
 				016779182B21430300FE6673 /* walkthrough.gif */,
 				0167790C2B213E0200FE6673 /* Assets.xcassets */,
 				0167790E2B213E0200FE6673 /* LaunchScreen.storyboard */,
