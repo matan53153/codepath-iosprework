@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 <img src="walkthrough.gif" width="" alt="Walkthrough" />
 
-[Walkthrough]("walkthrough.gif")
+[Walkthrough]("./walkthrough.gif")
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
 
