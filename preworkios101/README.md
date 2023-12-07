@@ -15,6 +15,8 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
+<img src="walkthrough.gif" width="" alt="Walkthrough" />
+
 [Walkthrough]("walkthrough.gif")
 
 [Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
